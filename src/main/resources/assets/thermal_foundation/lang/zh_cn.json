@@ -49,6 +49,7 @@
   "block.thermal.rubberwood_door": "橡胶木门",
   "block.thermal.rubberwood_fence": "橡胶木栅栏",
   "block.thermal.rubberwood_fence_gate": "橡胶木栅栏门",
+  "block.thermal.rubberwood_hanging_sign": "悬挂式橡胶木告示牌",
   "block.thermal.rubberwood_leaves": "橡胶木树叶",
   "block.thermal.rubberwood_log": "橡胶原木",
   "block.thermal.rubberwood_planks": "橡胶木板",
@@ -59,12 +60,14 @@
   "block.thermal.rubberwood_stairs": "橡胶木楼梯",
   "block.thermal.rubberwood_trapdoor": "橡胶木活板门",
   "block.thermal.rubberwood_wall_sign": "墙上的橡胶木告示牌",
+  "block.thermal.rubberwood_wall_hanging_sign": "墙上的悬挂式橡胶木告示牌",
   "block.thermal.rubberwood_wood": "橡胶木",
 
   "block.thermal.potted_rubberwood_sapling": "橡胶树苗盆栽",
   "block.thermal.stripped_rubberwood_log": "去皮橡胶原木",
   "block.thermal.stripped_rubberwood_wood": "去皮橡胶木",
 
+  "entity.thermal.rubberwood_boat": "船",
   "entity.thermal.rubberwood_chest_boat": "运输船",
 
   "item.thermal.raw_lead": "粗铅",
